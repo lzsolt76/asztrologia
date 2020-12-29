@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Merriweather";
-    src: url(asztrologia/css/Merriweather/Merriweather-Regular.ttf);
+    src: url(/css/Merriweather/Merriweather-Regular.ttf);
     font-weight: normal;
 }
 
 @font-face {
     font-family: "Roboto";
-    src: url(asztrologia/css/roboto/Roboto-Regular.ttf);
+    src: url(/css/roboto/Roboto-Regular.ttf);
     font-weight: normal;
 }
 
