@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Merriweather";
-    src: url(/css/Merriweather/Merriweather-Regular.ttf);
+    src: url(/Merriweather/Merriweather-Regular.ttf);
     font-weight: normal;
 }
 
 @font-face {
     font-family: "Roboto";
-    src: url(/css/roboto/Roboto-Regular.ttf);
+    src: url(/roboto/Roboto-Regular.ttf);
     font-weight: normal;
 }
 
