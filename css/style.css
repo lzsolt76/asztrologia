@@ -1,0 +1,100 @@
+@font-face {
+    font-family: "Merriweather";
+    src: url(/css/Merriweather/Merriweather-Regular.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(/css/roboto/Roboto-Regular.ttf);
+    font-weight: normal;
+}
+
+/* Body {
+    padding-top: 3rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  } */
+
+  
+.index-html {
+    background-image: url(/css/img/stars5.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    max-width: 100%;
+    background-size: cover;  
+}
+
+
+.bio-html {
+    background-image: url(/css/img/sol.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;  
+}
+
+.elemzes-html {
+    background-image: url(/css/img/sol.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 1550px 700px;    
+    }
+
+.address-html {
+    background-image: url(/css/img/sol.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;  
+}
+
+.teszt-html {
+    background-image: url(/css/img/stars5.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    max-width: 100%;
+    background-size: cover;  
+}
+
+#introDiv {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: justify;
+}
+
+.content {
+    background-color: lightgrey;
+    width: auto;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    position: absolute;
+    top: 100px;
+    left: 20%;
+    right: 20%;
+    box-shadow: 10px 10px 10px black;
+    text-align: justify;
+  }
+
+.col-8 {
+    top: 100px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px black;
+    background-color: lightgrey;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;   
+}
+
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url(/css/img/stars5.jpg);
+    min-height: 75%;
+  }
