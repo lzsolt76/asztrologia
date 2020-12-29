@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Merriweather";
-    src: url(/css/Merriweather/Merriweather-Regular.ttf);
+    src: url(css/Merriweather/Merriweather-Regular.ttf);
     font-weight: normal;
 }
 
 @font-face {
     font-family: "Roboto";
-    src: url(/css/roboto/Roboto-Regular.ttf);
+    src: url(css/roboto/Roboto-Regular.ttf);
     font-weight: normal;
 }
 
@@ -20,7 +20,7 @@
 
   
 .index-html {
-    background-image: url(/css/img/stars5.jpg);
+    background-image: url(css/img/stars5.jpg);
     background-repeat: no-repeat;
     height: 100%;
     max-width: 100%;
@@ -29,14 +29,14 @@
 
 
 .bio-html {
-    background-image: url(/css/img/sol.jpg);
+    background-image: url(css/img/sol.jpg);
     background-repeat: no-repeat;
     height: 100%;
     background-size: cover;  
 }
 
 .elemzes-html {
-    background-image: url(/css/img/sol.jpg);
+    background-image: url(css/img/sol.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -44,14 +44,14 @@
     }
 
 .address-html {
-    background-image: url(/css/img/sol.jpg);
+    background-image: url(css/img/sol.jpg);
     background-repeat: no-repeat;
     height: 100%;
     background-size: cover;  
 }
 
 .teszt-html {
-    background-image: url(/css/img/stars5.jpg);
+    background-image: url(css/img/stars5.jpg);
     background-repeat: no-repeat;
     height: 100%;
     max-width: 100%;
@@ -95,6 +95,6 @@
 .bgimg {
     background-position: center;
     background-size: cover;
-    background-image: url(/css/img/stars5.jpg);
+    background-image: url(css/img/stars5.jpg);
     min-height: 75%;
   }
